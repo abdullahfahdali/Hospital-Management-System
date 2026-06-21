@@ -1,1 +1,1 @@
-Hospital Management System screenshots.
+Project screenshots.
